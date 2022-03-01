@@ -1,13 +1,15 @@
 # 자바 디자인 패턴
 
+
 자바(java)에서 주로 사용되는 객체지향 패턴을 학습하고 정리한 레파지토리입니다.
 [코딩으로 학습하는 GoF의 디자인 패턴 - 백기선 (인프런)](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/dashboard)
 을 보고 정리한 내용입니다.
+
 ---
 
 ## 목차
 ### 객체 생성 관련 디자인 패턴
-- [싱글톤 패턴](./src/main/com/siru/singleton/README.md)
+- [싱글톤 패턴](./src/main/java/com/siru/singleton/README.md)
 - 팩토리 패턴(작성예정)
 - 추상 팩토리 패턴(작성예정)
 - 빌더 패턴(작성예정)
