@@ -10,7 +10,7 @@
 ## 목차
 ### 객체 생성 관련 디자인 패턴
 - [싱글톤 패턴](./src/main/java/com/siru/singleton/README.md)
-- 팩토리 패턴(작성예정)
+- [팩토리 패턴](./src/main/java/com/siru/factory/README.md)
 - 추상 팩토리 패턴(작성예정)
 - 빌더 패턴(작성예정)
 ### 구조관련 디자인 패턴
